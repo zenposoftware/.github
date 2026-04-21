@@ -10,6 +10,8 @@ Enterprise software firm focused on SharePoint products, consulting delivery, an
 - Insights and frameworks: https://zenpo.ai  
 - Product documentation: https://help.zenpo.com  
 - Updates and activity: https://www.linkedin.com/company/zenpo-software/
+- Federal capabilities: https://zenpo.com/federal
+  
 ---
 
 ## What Zenpo does
